@@ -2,6 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
+        // I write a comment.
         Ovningar ovningar = new Ovningar();
         ovningar.ovning1();
         ovningar.ovning2();
