@@ -11,7 +11,7 @@ public class Main {
         ovningar.ovning5();
         ovningar.ovning6();
 
-        int a = 0;
+        int a = 4;
         int b = 3;
         int c = a + b;
         System.out.println(a + " + " + b + " = " + c);
